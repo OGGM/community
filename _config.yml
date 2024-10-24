@@ -3,7 +3,7 @@
 title: OGGM community  # The title of the book. Will be placed in the left navbar.
 author: OGGM e.V. and OGGM Contributors  # The author of the book
 copyright: "2024"  # Copyright year to be placed in the footer
-logo: community/img/community_logo.png  # A path to the book logo
+logo: img/community_logo.png  # A path to the book logo
 repository:
   url: https://github.com/OGGM/community
   path_to_book: .
