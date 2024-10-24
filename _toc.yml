@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: community/welcome
+parts:
+  - chapters:
+    - file: community/code-of-conduct
+    - file: community/meetings
+    - file: community/guides/index
+      sections:
+      - file: community/guides/error-guide
+    - file: community/hubs/index
+      sections:
+      - file: community/hubs/admin
+      - file: community/hubs/user-groups
+      - file: community/hubs/privacy-notice

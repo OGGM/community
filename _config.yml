@@ -1,0 +1,33 @@
+# Book settings
+
+title: OGGM community  # The title of the book. Will be placed in the left navbar.
+author: OGGM e.V. and OGGM Contributors  # The author of the book
+copyright: "2024"  # Copyright year to be placed in the footer
+logo: community/img/community_logo.png  # A path to the book logo
+repository:
+  url: https://github.com/OGGM/community
+  path_to_book: .
+  branch: stable
+html:
+  analytics:
+    plausible_analytics_domain: community.oggm.org
+    plausible_analytics_url: https://plausible.oggm.org/js/script.js
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+  extra_css:
+    - _static/custom.css
+  extra_footer: |
+    <p>
+    These community guides are under a <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC-Zero (No copyright)</a> licence.
+    <br>
+    </p>
+sphinx:
+  config:
+    html_show_copyright: false
+    html_last_updated_fmt: '%b %d, %Y'
+execute:
+  execute_notebooks: auto  # off (for tests)
+  timeout: -1
+  allow_errors: true
+exclude_patterns: [.virtual_documents/*,README.md,sandbox/*,ignore/*,ioggm*]
