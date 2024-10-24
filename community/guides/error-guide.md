@@ -54,7 +54,7 @@ After posing your question, the next step is to wait patiently for a reply. Comm
 
 On Slack, adding additional information to the question and follow-up discussions should occur in the thread related to your question to maintain organization. On GitHub, conversations continue within the respective issue. In either case, make it clear when a solution has been found. On GitHub, you can close the issue; on Slack, mark the main question with a ✅ emoji to indicate it has been answered. It's a kind gesture to thank those who helped you, and remember to offer help to others when you can.
 
----
-authors: Anouk Vlug, Jenna Sutherland, Fabien Maussion
-creation date: 2023-11-02
----
+## Authors
+
+- Anouk Vlug, Jenna Sutherland
+- Creation date: 2023-11-02

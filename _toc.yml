@@ -5,6 +5,7 @@ format: jb-book
 root: community/welcome
 parts:
   - chapters:
+    - file: community/about
     - file: community/code-of-conduct
     - file: community/meetings
     - file: community/guides/index
