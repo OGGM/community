@@ -22,14 +22,14 @@ to a sense of being part of the community.
 
 Slack uses "channels", which are chat groups dedicated to selected topics. 
 Everyone is in the `#general` channel, that is used sparingly for general
-announcements useful to everyone. The`#general` channel is also 
+announcements useful to everyone. The `#general` channel is also 
 where the invitations to our fortnightly meetings are announced. The 
 `#support` channel is often the best place to ask questions, and 
 `#random` is being used for chitchat, from pet pictures to nerdy jokes.
 
 Aside from those channels that most people follow, there are 
 many thematic channels that one can join based on interest. 
-`#tidewater`, `#surface-mass-balance`, 
+`#tidewater`, `#surface-mass-balance`, `#science-and-publications`,
 `#hardcore-programming` and `#oggm-edu` are some examples . 
 
 Aside from the channels, slack can also be used to chat privately to one or more people 
@@ -42,17 +42,19 @@ Being a platform with 200+ members, requires some rules
 (see [code of conduct](https://community.oggm.org/code-of-conduct.html)) 
 and good practises to keep the platform functioning as intended. 
 
-To keep things organised, a response to a message is always posted 
+- To keep things organised, a response to a message is always posted 
 in a thread. A "thread" is a discussion originating from a post 
 and is started as a reply on the original message.
 
-When asking a question in the `#support` channel, please only ask one question at a time 
-and phrase it well. With "phrasing it well", I explicitly don't mean your english needs to be perfect. 
-However the question needs to be answerable, meaning it needs to include enough context so one 
-can understand the issue. For a more ellobarate explanation on how to deal with OGGM related error and 
-questions, it's advised to read the brief error guide.
+- When asking a question in the `#support` channel, please ask only one question at a time 
+and phrase it well. With "phrasing it well", I explicitly don't mean your english writing needs
+to be flawless. However the question needs to be answerable, meaning it needs to include enough
+context so one can understand the issue easily. Omitting a good description of the issue at hand,
+can waste time of both you and your colleagues, who offer their help on a volentary to basis.
+For a more ellobarate explanation on how to deal with OGGM related error and questions, it's
+advised to read the [brief error guide](https://community.oggm.org/guides/error-guide.html).
 
-Once your question has been answered, (hopefully) in
+- Once your question has been answered, (hopefully) in
 the thread bellow, it would be great if you could add a check mark 
 to the main question, using e.g. the ✅ emoji (you will see what I mean when 
 scrolling through the `#support` channel), so that the others 
