@@ -9,6 +9,7 @@ repository:
   path_to_book: .
   branch: stable
 html:
+  favicon: img/favicon.png
   analytics:
     plausible_analytics_domain: community.oggm.org
     plausible_analytics_url: https://plausible.oggm.org/js/script.js
