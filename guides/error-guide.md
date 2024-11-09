@@ -1,4 +1,4 @@
-# Help, an error!
+# {octicon}`alert` Help, an error!
 
 **A guide on what to do when you get stuck or have a question**
 

@@ -11,6 +11,7 @@ parts:
     - file: guides/index
       sections:
       - file: guides/error-guide
+      - file: guides/slack-intro
     - file: hubs/index
       sections:
       - file: hubs/admin

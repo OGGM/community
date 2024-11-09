@@ -12,7 +12,7 @@ These guidelines mayb be helpful for anyone new to the community:
 How to ask questions online.
 :::
 
-:::{grid-item-card} {octicon}`alert` The OGGM slack
+:::{grid-item-card} {octicon}`comment-discussion` The OGGM slack
 :link: slack-intro
 :link-type: doc
 

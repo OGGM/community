@@ -1,90 +1,40 @@
-# Welcome to the OGGM Slack!
-**A little introduction**
+# {octicon}`comment-discussion` Welcome to the OGGM Slack!
 
-The OGGM Slack is our platform for all communication related to OGGM
-and its various related projects. We aim for this forum to be an inclusive 
-and friendly environment, that is more personal than
-an open forum where everyone can read and write.
+Welcome to the OGGM Slack, our community space for all communication related to OGGM and its numerous side projects! We aim to create an inclusive and friendly environment, more personal than a fully open forum where everyone can read and post.
 
-But what is it about? 
+But what is it all about?
 
-We use Slack to get support, to chat amongst other glacier fans, 
-and to stay updated about what happens in the community. With topics 
-ranging from _how to solve this error in my code_ and 
-_has someone done this already_ to 
-_who is going to this meeting/conference and would like to get a coffee_
-and plenty more... In short, slack can contribute 
-to a sense of being part of the community.
+This Slack workspace is a place to get support, chat with fellow glacier enthusiasts, and stay updated on what's happening in the community. Whether it's asking _"how to fix an error in code"_, if _"someone has tried a particular approach before"_, or _"who's going to a meeting or conference and would like to grab a coffee?"_, this platform helps foster a sense of community.
 
 ## Practicalities
 
-### Finding your way on the different channels
+### Navigating the channels
 
-Slack uses "channels", which are chat groups dedicated to selected topics. 
-Everyone is in the `#general` channel, that is used sparingly for general
-announcements useful to everyone. The `#general` channel is also 
-where the invitations to our fortnightly meetings are announced. The 
-`#support` channel is often the best place to ask questions, and 
-`#random` is being used for chitchat, from pet pictures to nerdy jokes.
+Slack uses "channels," which are chat groups dedicated to specific topics. Everyone is in the `#general` channel, used mainly for announcements and updates relevant to all members. It's also where invitations to our bi-weekly meetings are shared. The `#support` channel is typically the best place to ask questions, while `#random` is a space for lighter conversations—everything from pet photos to nerdy jokes.
 
-Aside from those channels that most people follow, there are 
-many thematic channels that one can join based on interest. 
-`#tidewater`, `#surface-mass-balance`, `#science-and-publications`,
-`#hardcore-programming` and `#oggm-edu` are some examples . 
+In addition to these channels, there are many thematic channels to join based on your interests, such as `#tidewater`, `#surface-mass-balance`, `#science-and-publications`, `#hardcore-programming`, and `#oggm-edu`.
 
-Aside from the channels, slack can also be used to chat privately to one or more people 
-at the same time. You can chat or "huddle", which is like a phone call with or without 
-camera.  
+You can also chat privately with one or more people at the same time. Slack offers options for text chat or "huddles"—phone calls with or without video.
 
-### Good practices
+### Best Practices
 
-Being a platform with 200+ members, requires some rules 
-(see [code of conduct](https://community.oggm.org/code-of-conduct.html)) 
-and good practises to keep the platform functioning as intended. 
+With over 200 members, maintaining some guidelines (see [](../code-of-conduct)) helps keep the platform welcoming and organized.
 
-- To keep things organised, a response to a message is always posted 
-in a thread. A "thread" is a discussion originating from a post 
-and is started as a reply on the original message.
+- To keep discussions organized, please reply to messages within a thread. A "thread" is a focused conversation that branches off from a post.
+- When asking a question in the `#support` channel, ask one question at a time and make it as clear as possible. You don’t need flawless English, but enough context for others to understand the issue helps avoid unnecessary back-and-forth. For more tips on addressing OGGM-related issues, see our [error guide](error-guide).
+- Once your question has been answered (usually in the thread below), please add a check mark to the main question with an emoji like ✅. This helps others see at a glance which questions have been resolved.
 
-- When asking a question in the `#support` channel, please ask only one question at a time 
-and phrase it well. With "phrasing it well", I explicitly don't mean your english writing needs
-to be flawless. However the question needs to be answerable, meaning it needs to include enough
-context so one can understand the issue easily. Omitting a good description of the issue at hand,
-can waste time of both you and your colleagues, who offer their help on a volentary to basis.
-For a more ellobarate explanation on how to deal with OGGM related error and questions, it's
-advised to read the [brief error guide](https://community.oggm.org/guides/error-guide.html).
+## Community meetings
 
-- Once your question has been answered, (hopefully) in
-the thread bellow, it would be great if you could add a check mark 
-to the main question, using e.g. the ✅ emoji (you will see what I mean when 
-scrolling through the `#support` channel), so that the others 
-know the question has been answered and won't loose time reading 
-the whole thread when offering their help. 
+Everyone in our Slack community is welcome to join the bi-weekly meetings, regardless of background or plans with OGGM. These meetings are informal, so no need to feel nervous or prepare anything. They might be more interesting for those actively using or developing the model, but even if you're just curious, it’s a great opportunity to meet some of the community's active members. In fact, new members are encouraged to join at least once to put a face to their name! For the schedule, check out our [calendar](../meetings).
 
-## Meeting online
+## How to Join?
 
-Everyone on our slack is very welcome to join the 
-once-every-two-weeks-meetings, no matter your background or 
-plans with OGGM. It is quite an informal meeting, so no reason to 
-be nervous about joining it. Having said that, it might be more 
-interesting to those actively planning to use/using and develop the 
-model, than those who don’t. Either way, 
-it might be nice to join the meeting, so you will be able to 
-meet some of the active members. In fact it is encouraged for new 
-member to join the meeting at least once, so you're no longer 
-"just a name" to them. For the schedule you can checkout the 
-[calendar](https://community.oggm.org/meetings.html).
+Slack can be accessed through a browser or a local app. Many regular users prefer the app for easier access.
 
-## How to join?
-
-Slack can be accessed through the browser and via a local 
-installation. My personal preference is using the app, and I 
-think that is the case for most frequent users.
-
-If you’re interested in joining the OGGM Slack, please send an 
-e-mail to [info@oggm.org](mailto:info@oggm.org), stating shortly 
-who you are and why you would like to join our slack.
+If you’re interested in joining the OGGM Slack, please email [info@oggm.org](mailto:info@oggm.org) with a brief introduction about yourself and your interest in joining.
 
 ### Author
+
 - Anouk Vlug
 - Creation date: 2022-10-11 (updated since)
