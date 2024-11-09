@@ -1,4 +1,4 @@
-# Hub Privacy Notice
+# {octicon}`lock` Hub Privacy Notice
 
 Welcome to OGGM Hub and OGGM Classroom. We value your privacy and are committed to protecting your personal information. Please read the following information carefully to understand our practices regarding your personal data.
 

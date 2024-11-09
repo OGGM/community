@@ -1,4 +1,4 @@
-# Classroom user groups
+# {octicon}`person-add` Classroom user groups
 
 Keeping track of user groups on classroom.
 

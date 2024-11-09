@@ -1,4 +1,4 @@
-# Administrating the OGGM hubs
+# {octicon}`dependabot` Administrating the OGGM hubs
 
 This guide is for teachers and admins of the hub(s). Please read it carefully if you are using the hubs for a class.
 
