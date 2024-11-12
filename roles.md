@@ -17,6 +17,11 @@ The OGGM community is a collaborative, open-source initiative focused on advanci
 
 The OGGM community thrives because of the collective effort of many dedicated volunteers. Below, we outline some of the key roles that members of the community take on, ensuring that their contributions are acknowledged.
 
+```{warning}
+
+This is a work in progress!
+```
+
 ````{card} Steering committee
 
 The purpose of the steering committee is to guide the evolution of OGGM in alignment with its long-term mission and vision, ensuring that the project remains relevant, impactful, and that its online spaces remain safe for everyone.
@@ -34,7 +39,7 @@ The purpose of the core developers role is to build and maintain the technical f
 Core developers are responsible for managing code contributions, ensuring software quality, guiding new developers and documening technical decisions. Core developpers have the right to push to the core OGGM codebase.
 
 - **Current role holders:** Fabien Maussion (2016-present), Patrick Schmitt (2021-present)
-- **Past role holders:** Matthias Dush (2018-2021)
+- **Past role holders:** Matthias Dusch (2018-2021)
 ````
 
 ````{card} Documentation and tutorials developers
@@ -64,7 +69,7 @@ The purpose of the meeting facilitators role is to create a space for transparen
 Meeting facilitators are responsible for scheduling the open meetings, announce them, ensure all voices are heard, facilitate discussions, and document meeting outcomes.
 
 - **Current members:** Fabien Maussion (2024-present), **Applications open!**
-- **Past members:** Anouk Vlug (2020-2024), Matthias Dush (2019-2020)
+- **Past members:** Anouk Vlug (2020-2024), Matthias Dusch (2019-2020)
 ````
 
 ````{card} OGGM and OGGM-Shop data curators
@@ -74,7 +79,7 @@ The purpose of the data curators role is to create, pre-process, post-process, a
 OGGM data curators are responsible for managing the data generation process (including projections, pre and post-processing), ensuring data quality, ensuring that data is shared under FAIR principles, and maintaining the documentation of the data products.
 
 - **Current members:** Lilian Schuster (2020-present), Patrick Schmitt (2020-present), Fabien Maussion (2015-present)
-- **Past members:** Matthias Dush (2019-2020)
+- **Past members:** Matthias Dusch (2019-2020)
 ````
 
 ````{card} Workshop organiser
