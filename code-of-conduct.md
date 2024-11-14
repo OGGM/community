@@ -4,11 +4,11 @@
 
 ## Introduction
 
-We are a collaborative network of people from various background and interests, that seek to advance glacier evolution modelling through open-source and open-science practices as well as online and in-person networking. Openness, diversity and inclusion make our community strong, and want to be very clear about where we stand.
+We are a collaborative network of people from various backgrounds and interests, who seek to advance glacier evolution modelling through open-source and open-science practices as well as online and in-person networking. Openness, diversity and inclusion make our community strong, and we want to be very clear about where we stand.
 
-Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristic. We encourage participation from diverse backgrounds and want community members to feel secure sharing ideas and plans without fear of idea appropriation or being 'scooped'. This includes respecting intellectual contributions and engaging in discussions that foster collaborative, rather than competitive, progress.
+Our goal is to maintain a safe, helpful and friendly community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other defining characteristics. We encourage participation from diverse backgrounds and want community members to feel secure sharing ideas and plans without fear of idea appropriation or being 'scooped'. This includes respecting intellectual contributions and engaging in discussions that foster collaborative, rather than competitive, progress.
 
-This code and related procedures apply to unacceptable behavior occurring in all community venues, including behavior outside the scope of community activities — online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
+This code and related procedures apply to unacceptable behavior occurring in all community venues, including behavior outside the scope of community activities — online and in-person — as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## Community spaces where this code of conduct is in application
 
@@ -43,12 +43,12 @@ If you're looking for feedback or collaboration on ideas, clearly state your goa
 ## Unacceptable behavior ✋🏼
 
 - No harassment via private messages: Directly messaging individual users, including community developers, with questions or requests for help is not acceptable unless explicitly invited to do so. Repeatedly contacting someone or pressuring them to respond is considered harassment and will not be tolerated.
-- Conduct or speech which might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory or offensive in nature.
+- Do not behave or speak in ways that might be considered sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory or offensive in nature.
 - Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
 - Do not show disrespect towards others.
-- Disrespect towards differences of opinion.
-- Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
-- Violence, threats of violence or violent language.
+- Do not show disrespect towards differences of opinion.
+- No inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
+- No violence, threats of violence or violent language.
 - Unacceptable practices related to research conduct:
   - Any practice leading to research misconduct, such as fabrication, falsification, plagiarism, intellectual property theft, or unauthorized use of another’s ideas (idea appropriation).
   - Unauthorized use of ideas shared by community members for projects or publications without proper credit or collaboration.
