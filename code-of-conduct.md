@@ -40,10 +40,6 @@ One of the strengths of our community is our willingness to help each other! Whe
 
 If you're looking for feedback or collaboration on ideas, clearly state your goals, and be open about how you envision working together. 
 
-[//]: # (
----EHU: This is kind of a separate point, and it repeats a point above.  I think it is stronger to remove it.  Otherwise, make a separate paragraph to make this point?
-Show respect for others' intellectual contributions by asking for permission before adapting their ideas or suggestions, fostering a culture of trust and mutual support. Let's build on each other's knowledge while ensuring everyone feels valued and acknowledged.)
-
 ## Unacceptable behavior ✋🏼
 
 - No harassment via private messages: Directly messaging individual users, including community developers, with questions or requests for help is not acceptable unless explicitly invited to do so. Repeatedly contacting someone or pressuring them to respond is considered harassment and will not be tolerated.
@@ -54,8 +50,8 @@ Show respect for others' intellectual contributions by asking for permission bef
 - No inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
 - No violence, threats of violence or violent language.
 - No research misconduct:
-  - Any practice leading to research misconduct, such as fabrication, falsification, plagiarism, intellectual property theft, or unauthorized use of another’s ideas (idea appropriation).
-  - Unauthorized use of ideas shared by community members for projects or publications without proper credit or collaboration.
+  - No fabrication, falsification, plagiarism, intellectual property theft, etc.
+  - No unauthorized use of ideas shared by community members for projects or publications without proper credit or collaboration.
 
 For guidance on research integrity and ethical conduct, refer to [ORI’s Definition of Research Misconduct](https://ori.hhs.gov/definition-research-misconduct) and the [UKRIO’s Research Misconduct Guidelines](https://ukrio.org/research-integrity/what-is-research-misconduct/).
 
@@ -69,6 +65,6 @@ In response to violations, the OGGM [steering committee](roles.md) will take any
 
 ## Authors
 
-- Beatriz Recinos, Fabien Maussion
+- Beatriz Recinos, Fabien Maussion, Lizz Ultee
 - Creation date: 2024-10-22
 - Sources: this CoC is inspired by [PSECCO's Community Guidelines](https://psecco.org/pseccos-community-guidelines) and the [APECS CoC chapter in the APECS handbook](https://www.apecs.is/who-we-are/publications/apecs-handbook.html).
