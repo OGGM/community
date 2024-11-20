@@ -38,7 +38,7 @@ As a member of our open community, we expect all participants to adhere to the f
 
 One of the strengths of our community is our willingness to help each other! Whether you have questions about OGGM, glacier modeling, or glaciology in general, we encourage open discussions in OGGM spaces. Remember that our members volunteer their time, so please be considerate of everyone’s availability. Visit our [](guides/index.md) for more information about how to ask questions effectively.
 
-If you're looking for feedback or collaboration on ideas, clearly state your goals, and be open about how you envision working together. 
+If you're looking for feedback or collaboration on ideas, clearly state your goals, and be open about how you envision working together.
 
 ## Unacceptable behavior ✋🏼
 
@@ -57,9 +57,7 @@ For guidance on research integrity and ethical conduct, refer to [ORI’s Defini
 
 ## Consequences ⚖️
 
-Understand that speech and actions have consequences. Unacceptable behavior will not be tolerated in our community.
-
-If you are the subject of, or witness to any violations of this Code of Conduct, please contact us via email at [info@oggm.org](mailto:info@oggm.org).
+Unacceptable behavior will not be tolerated in our community. If you are the subject of, or witness to any violations of this Code of Conduct, please contact us via email at [info@oggm.org](mailto:info@oggm.org).
 
 In response to violations, the OGGM [steering committee](roles.md) will take any action they deem appropriate, up to and including expulsion from all OGGM spaces and events.
 
@@ -67,4 +65,4 @@ In response to violations, the OGGM [steering committee](roles.md) will take any
 
 - Beatriz Recinos, Fabien Maussion, Lizz Ultee
 - Creation date: 2024-10-22
-- Sources: this CoC is inspired by [PSECCO's Community Guidelines](https://psecco.org/pseccos-community-guidelines) and the [APECS CoC chapter in the APECS handbook](https://www.apecs.is/who-we-are/publications/apecs-handbook.html).
+- This CoC is inspired by [PSECCO's Community Guidelines](https://psecco.org/pseccos-community-guidelines) and the [APECS CoC chapter in the APECS handbook](https://www.apecs.is/who-we-are/publications/apecs-handbook.html).

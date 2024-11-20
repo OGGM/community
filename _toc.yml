@@ -3,17 +3,17 @@
 
 format: jb-book
 root: welcome
-parts:
-  - chapters:
-    - file: roles
-    - file: code-of-conduct
-    - file: meetings
-    - file: guides/index
-      sections:
-      - file: guides/error-guide
-      - file: guides/slack-intro
-    - file: hubs/index
-      sections:
-      - file: hubs/admin
-      - file: hubs/user-groups
-      - file: hubs/privacy-notice
+chapters:
+  - file: mission
+  - file: code-of-conduct
+  - file: roles
+  - file: meetings
+  - file: guides/index
+    sections:
+    - file: guides/error-guide
+    - file: guides/slack-intro
+  - file: hubs/index
+    sections:
+    - file: hubs/admin
+    - file: hubs/user-groups
+    - file: hubs/privacy-notice

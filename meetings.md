@@ -1,4 +1,4 @@
-# {octicon}`people` OGGM Open Meetings
+# {octicon}`comment-discussion` OGGM Open Meetings
 
 We regularly hold two types of open meetings online within the OGGM community. **Check-in meetings** are held every second Wednesday on Zoom, and the invites are sent via Slack (reach out if you’d like to join). These meetings are a great way to stay updated on what’s happening, ask questions, and discuss work in progress.
 
