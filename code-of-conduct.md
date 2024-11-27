@@ -1,6 +1,6 @@
 # {octicon}`code-of-conduct` Code of Conduct
 
-👋🏽 Welcome to the OGGM community! We’re excited to have you with us. Please take a moment to read and accept our Code of Conduct, which outlines the values that make our community strong, inclusive, and respectful. We also invite you to review our [Mission Statement](mission) to understand the shared goals and vision that guide us.
+👋🏽 Welcome to the [OGGM](https://oggm.org) community! We’re excited to have you with us. Please take a moment to read and accept our Code of Conduct, which outlines the values that make our community strong, inclusive, and respectful. We also invite you to review our [Mission Statement](mission) to understand the shared goals and vision that guide us.
 
 ## Introduction
 
@@ -12,8 +12,8 @@ Our goal is to maintain a safe, helpful and friendly community for everyone, reg
 
 This code of conduct applies to all online spaces managed by OGGM, all in-person or online OGGM events, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members as well as their career develpment. This includes:
 
-- the OGGM Slack space
-- all OGGM repositories in the OGGM github organisation
+- the OGGM [Slack space](./guides/slack-intro.md)
+- all OGGM repositories in the [OGGM github organisation](https://github.com/OGGM)
 - the OGGM online meetings
 - the OGGM in-person workshops
 - the OGGM in-person meetings at conferences, etc.

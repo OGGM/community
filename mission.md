@@ -1,7 +1,7 @@
 # {octicon}`rocket` Mission
 
 ```{epigraph}
-The OGGM community is a collaborative, open-source initiative focused on advancing glacier science and understanding the impacts of climate change on glaciers. Our mission is to provide accessible and comprehensive glacier modeling tools for researchers, educators, and decision-makers. Together, we are building a community-driven platform that enables:
+The [OGGM](https://oggm.org) community is a collaborative, open-source initiative focused on advancing glacier science and understanding the impacts of climate change on glaciers. Our mission is to provide accessible and comprehensive glacier modeling tools for researchers, educators, and decision-makers. Together, we are building a community-driven platform that enables:
 
 - Cutting-edge glacier and climate science.
 - Open educational resources to train the next generation of scientists.

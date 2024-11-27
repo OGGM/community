@@ -31,7 +31,7 @@ def generate_markdown(data, header=None):
 
         # Role holders tab
         markdown += ":::::{tab-item} Role holders\n"
-        markdown += "::::{grid} 1 2 3 4\n:gutter: 3\n\n"
+        markdown += "::::{grid} 3\n:gutter: 2\n\n"
         for role_holder in content.get('role_holders', []):
             markdown += f":::{{grid-item-card}} {role_holder['name']}\n{role_holder['period']}\n:::\n\n"
         markdown += "::::\n:::::\n\n"
@@ -39,7 +39,7 @@ def generate_markdown(data, header=None):
         # Past role holders tab
         if content.get('past_role_holders'):
             markdown += ":::::{tab-item} Past role holders\n"
-            markdown += "::::{grid} 1 2 3 4\n:gutter: 3\n\n"
+            markdown += "::::{grid} 3\n:gutter: 2\n\n"
             for past_holder in content['past_role_holders']:
                 markdown += f":::{{grid-item-card}} {past_holder['name']}\n{past_holder['period']}\n:::\n\n"
             markdown += "::::\n:::::\n\n"
