@@ -20,8 +20,7 @@ html:
     - _static/custom.css
   extra_footer: |
     <p>
-    These community guides are under a <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC-Zero (No copyright)</a> licence.
-    <br>
+    &copy; Copyright 2024-2024. These materials are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY license</a>.
     </p>
 sphinx:
   config:
