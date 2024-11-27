@@ -1,0 +1,198 @@
+Steering committee:
+  role_holders:
+    - name: "Applications open!"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the steering committee is to guide the evolution of OGGM in alignment
+    with its long-term mission and vision, ensuring that the project remains relevant, impactful,
+    and that its online spaces remain safe for everyone.
+
+    Steering committee members meet every three months to oversee the governance of OGGM,
+    track ongoing large projects, and ensure activities are conducted in line with the
+    community's mission and values. Ideally, the steering committee members should reflect
+    the community interests: users, developers, educators, etc. The OGGM steering committee
+    also intervenes in case of internal conflicts or violations of the code of conduct.
+
+    In the past, this role has been held informally by Ben Marzeion (2015-present), Fabien
+    Maussion (2015-present), Anouk Vlug (2020-present).
+
+Core developers:
+  role_holders:
+    - name: "Fabien Maussion"
+      period: "2016-present"
+    - name: "Patrick Schmitt"
+      period: "2021-present"
+  past_role_holders:
+    - name: "Matthias Dusch"
+      period: "2018-2021"
+  role_description: |
+    The purpose of the core developers role is to build and maintain the technical foundation
+    of the core OGGM codebase located at [github.com/OGGM/oggm](https://github.com/OGGM/oggm),
+    ensuring that the software meets user needs and remains robust and extensible.
+
+    Core developers are responsible for managing code contributions, ensuring software quality,
+    guiding new developers and documenting technical decisions. Core developers have the right
+    to push to the core OGGM codebase.
+
+IT infrastructure manager:
+  role_holders:
+    - name: "Timo Rothenpieler"
+      period: "2016-present"
+    - name: "Fabien Maussion"
+      period: "2016-present"
+  past_role_holders: []
+  role_description: |
+    The purpose of the IT infrastructure manager role is to ensure that the community has
+    access to reliable and efficient data and computing resources by managing and maintaining
+    the underlying hardware and software infrastructure. This role supports the operation of
+    critical systems and facilitates seamless access to resources for the community's activities.
+
+    IT infrastructure managers are responsible for:
+    - Ensuring the availability and accessibility of data and computing resources.
+    - Managing and maintaining hardware infrastructure, including clusters and servers for data
+      and applications.
+    - Overseeing the maintenance and operation of the Bremen cluster, addressing both hardware
+      and software needs.
+    - Troubleshooting technical issues to ensure smooth and reliable system performance.
+    - Collaborating with community members to identify infrastructure needs and implement
+      necessary upgrades or changes.
+    - Ensuring compliance with security and operational standards.
+
+Documentation and tutorials developers:
+  role_holders:
+    - name: "Anouk Vlug"
+      period: "2020-present"
+    - name: "Lilian Schuster"
+      period: "2020-present"
+    - name: "Beatriz Recinos"
+      period: "2016-present"
+  past_role_holders: []
+  role_description: |
+    The purpose of the documentation and tutorials developers role is to make OGGM accessible
+    to a broad audience by creating educational resources and maintaining user documentation
+    and tutorials.
+
+    They are responsible for developing and maintaining the [tutorials](http://tutorials.oggm.org)
+    and [user documentation](http://docs.oggm.org) that make OGGM approachable to researchers,
+    students, and educators.
+
+Community moderators:
+  role_holders:
+    - name: "Patrick Schmitt"
+      period: "2024-present"
+    - name: "Anouk Vlug"
+      period: "2020-2024"
+    - name: "Applications open"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the community moderators role is to foster a welcoming and supportive
+    environment where community members can collaborate, learn, and share knowledge.
+
+    Community moderators are responsible for welcoming new users into the OGGM spaces
+    (mostly: Slack), facilitate discussions by e.g. pointing towards solutions online or
+    pointing towards expert members that can help, moderate community platforms, and foster
+    a sense of belonging within the community.
+
+Meeting facilitators:
+  role_holders:
+    - name: "Fabien Maussion"
+      period: "2024-present"
+    - name: "Anouk Vlug"
+      period: "2020-2024"
+    - name: "Applications open"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the meeting facilitators role is to create a space for transparent communication
+    and community collaboration during our regular bi-weekly meetings.
+
+    Meeting facilitators are responsible for scheduling the open meetings, announce them, ensure
+    all voices are heard, facilitate discussions, and document meeting outcomes.
+
+OGGM and OGGM-Shop data curators:
+  role_holders:
+    - name: "Lilian Schuster"
+      period: "2020-present"
+    - name: "Patrick Schmitt"
+      period: "2020-present"
+    - name: "Fabien Maussion"
+      period: "2016-present"
+  past_role_holders: []
+  role_description: |
+    The purpose of the data curators role is to create, pre-process, post-process, and document
+    new data products, ensuring data is in a usable format for the community. Mainly, data curators
+    are managing all data available in the [OGGM-Shop](https://docs.oggm.org/en/stable/shop.html)
+    and the [OGGM standard projections](https://docs.oggm.org/en/stable/download-projections.html).
+
+    OGGM data curators are responsible for managing the data generation process (including projections,
+    pre and post-processing), ensuring data quality, ensuring that data is shared under FAIR principles,
+    and maintaining the documentation of the data products.
+
+Workshop organiser:
+  role_holders:
+    - name: "Anouk Vlug"
+      period: "2020-present"
+    - name: "Ben Marzeion"
+      period: "2015-present"
+    - name: "Fabien Maussion"
+      period: "2015-present"
+    - name: "Applications open"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the workshop organiser role is to coordinate, plan, and facilitate community-driven
+    workshops that foster collaboration, skill development, and knowledge sharing within the OGGM and
+    related communities. This role ensures the smooth execution of the workshops, focusing on logistics,
+    program development, and participant engagement.
+
+    Workshop organisers are responsible for:
+    - Organizing all logistics, including venue selection, accommodation, meals, and technical requirements.
+    - Hosting the workshop under their institutional umbrella.
+    - Collaborating with the OGGM community to design workshop sessions and tutorials.
+    - Managing communications with participants and promoting the workshop to the wider community.
+    - Ensuring a welcoming, inclusive, and productive environment for all attendees.
+
+Education creator:
+  role_holders:
+    - name: "Lizz Ultee"
+      period: "(2019-present)"
+    - name: "Erik Holmgren"
+      period: "2020-2021"
+    - name: "Lilian Schuster"
+      period: "2020-present"
+    - name: "Patrick Schmitt"
+      period: "2020-present"
+    - name: "Zora Schirmeister"
+      period: "2019-2020"
+    - name: "Applications open"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the education creator role is to
+
+    Education creators are responsible for
+
+Website admin:
+  role_holders:
+    - name: "Anouk Vlug"
+      period: "2020-present"
+    - name: "Fabien Maussion"
+      period: "2016-present"
+    - name: "Applications open"
+      period: "Get in touch!"
+  past_role_holders: []
+  role_description: |
+    The purpose of the website admin role is to maintain, develop, and optimize all OGGM's related websites
+    to ensure they serve as an accessible, user-friendly, and up-to-date resource for members and the broader
+    public. This role supports the dissemination of information, promotes community engagement, and facilitates
+    collaboration within the community.
+
+    Website administrators are responsible for:
+    - Managing website content, including updates to project documentation, tutorials, and announcements.
+    - Ensuring the website is functional, secure, and optimized for user experience.
+    - Collaborating with community members to add new resources and maintain accurate information.
+    - Implementing design or structural improvements to meet the community's evolving needs.
+    - Troubleshooting technical issues and liaising with hosting providers or developers as needed.
+    - Promoting accessibility and ensuring compliance with web standards and best practices.
