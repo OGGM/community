@@ -29,6 +29,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
+        python convert_roles.py roles.yaml roles.md --header roles_header
         jupyter-book build .
 
     # Upload the book's HTML as an artifact

@@ -8,6 +8,7 @@ RGI60-*
 sandbox/
 outputs
 ignore/
+roles.md
 
 # Mac
 .DS_Store
