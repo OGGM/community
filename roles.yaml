@@ -1,8 +1,12 @@
 Steering committee:
   role_holders:
-    - name: "Applications open!"
-      period: "Get in touch!"
-  past_role_holders: []
+    - name: "Fabien Maussion"
+      period: "2015-present"
+    - name: "Ben Marzeion"
+      period: "2015-present"
+    - name: "Anouk Vlug"
+      period: "2020-2024"
+  past_role_holders:
   role_description: |
     The purpose of the steering committee is to guide the evolution of OGGM in alignment
     with its long-term mission and vision, ensuring that the project remains relevant, impactful,
@@ -14,8 +18,9 @@ Steering committee:
     the community interests: users, developers, educators, etc. The OGGM steering committee
     also intervenes in case of internal conflicts or violations of the code of conduct.
 
-    In the past, this role has been held informally by Ben Marzeion (2015-present), Fabien
-    Maussion (2015-present), Anouk Vlug (2020-present).
+    Accountabilities:
+    - The steering committee has to meet at least once every three months.
+    - The meeting minutes should be anomized and shared with the community.
 
 Core developers:
   role_holders:
@@ -31,11 +36,11 @@ Core developers:
     of the core OGGM codebase located at [github.com/OGGM/oggm](https://github.com/OGGM/oggm),
     ensuring that the software meets user needs and remains robust and extensible.
 
-    Core developers are responsible for managing code contributions, ensuring software quality,
+    Core developers are responsible for managing and reviewing code contributions, ensuring software quality,
     guiding new developers and documenting technical decisions. Core developers have the right
     to push to the core OGGM codebase.
 
-IT infrastructure manager:
+IT infrastructure managers:
   role_holders:
     - name: "Timo Rothenpieler"
       period: "2016-present"
@@ -44,12 +49,12 @@ IT infrastructure manager:
   past_role_holders: []
   role_description: |
     The purpose of the IT infrastructure manager role is to ensure that the community has
-    access to reliable and efficient data and computing resources by managing and maintaining
+    access to OGGM resources (data, hubs, apps) by managing and maintaining
     the underlying hardware and software infrastructure. This role supports the operation of
-    critical systems and facilitates seamless access to resources for the community's activities.
+    critical systems such as the Bremen cluster and the online hubs.
 
     IT infrastructure managers are responsible for:
-    - Ensuring the availability and accessibility of data and computing resources.
+    - Ensuring the availability and accessibility of OGGM data and computing resources.
     - Managing and maintaining hardware infrastructure, including clusters and servers for data
       and applications.
     - Overseeing the maintenance and operation of the Bremen cluster, addressing both hardware
@@ -130,7 +135,7 @@ OGGM and OGGM-Shop data curators:
     pre and post-processing), ensuring data quality, ensuring that data is shared under FAIR principles,
     and maintaining the documentation of the data products.
 
-Workshop organiser:
+Workshop organisers:
   role_holders:
     - name: "Anouk Vlug"
       period: "2020-present"
@@ -154,7 +159,7 @@ Workshop organiser:
     - Managing communications with participants and promoting the workshop to the wider community.
     - Ensuring a welcoming, inclusive, and productive environment for all attendees.
 
-Education creator:
+Education creators:
   role_holders:
     - name: "Lizz Ultee"
       period: "(2019-present)"
@@ -170,11 +175,15 @@ Education creator:
       period: "Get in touch!"
   past_role_holders: []
   role_description: |
-    The purpose of the education creator role is to
+    The purpose of the education creators role is to develop and maintain educational resources
+    on the various OGGM platforms, including lesson plans, tutorials, and workshops. Education creators
+    ensure that the educational resources are accessible, engaging, and aligned with the needs of the
+    community.
 
-    Education creators are responsible for
+    Education creators are responsible for:
+    - Developing educational resources, including lesson plans, tutorials, and workshops.
 
-Website admin:
+Website admins:
   role_holders:
     - name: "Anouk Vlug"
       period: "2020-present"

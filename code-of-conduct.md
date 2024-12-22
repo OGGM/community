@@ -2,6 +2,14 @@
 
 👋🏽 Welcome to the [OGGM](https://oggm.org) community! We’re excited to have you with us. Please take a moment to read and accept our Code of Conduct, which outlines the values that make our community strong, inclusive, and respectful. We also invite you to review our [Mission Statement](mission) to understand the shared goals and vision that guide us.
 
+## Summary
+
+We wish our community to be:
+
+- nice
+- open
+- collaborative
+
 ## Introduction
 
 We are a collaborative network of people from various backgrounds and interests, who seek to advance glacier evolution modelling through open-source and open-science practices as well as online and in-person networking. Openness, collaboration, diversity and inclusion make our community strong. Thus, we want to be clear about how to sustain those values together.

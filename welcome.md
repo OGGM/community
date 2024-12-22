@@ -1,8 +1,8 @@
 # {octicon}`home` OGGM community
 
-OGGM is the Open Global Glacier Model, an open-source project ([oggm.org](https://oggm.org)).
+The Open Global Glacier Model ([oggm.org](https://oggm.org)) is an open-source glacier model and community.
 
-This webpage documents many aspects related to its governance, and the values shared by its community of users.
+This webpage documents OGGM's purpose, team and governance.
 
 ```{tableofcontents}
 ```
