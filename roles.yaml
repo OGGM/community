@@ -208,7 +208,7 @@ Website admins:
     - Troubleshooting technical issues and liaising with hosting providers or developers as needed.
     - Promoting accessibility and ensuring compliance with web standards and best practices.
 
-Community Support Specialist:
+Community support:
   role_holders:
     - name: "Patrick Schmitt"
       period: "2020-present"
@@ -222,7 +222,7 @@ Community Support Specialist:
       period: "2022-present"
     - name: "Applications open"
       period: "Get in touch!"
-  past_role_holders: 
+  past_role_holders:
     - name: "Beatriz Recinos"
       period: "2022-2024"
     - name: "Jan Malles"
@@ -232,14 +232,15 @@ Community Support Specialist:
     - name: "Matthias Dusch"
       period: "2020-2021"
   role_description: |
-    The purpose of the community support specialists is to ensure timely problem-solving for individuals by leveraging community support.
+    The purpose of the community support volunteers is to problem-solve all issues related to OGGM! They are
+    active on forums and email, answering questions and providing support to the community.
 
-    Community support specialists are responsible for:
-      - responding to community members' inquiries, 
+    Community support volunteers are responsible for:
+      - responding to community members' inquiries,
       - providing support, and
       - facilitating connections between those who need help and those who can provide it.
 
-Outreach and Communication Volunteers:
+Outreach and communication:
   role_holders:
     - name: "Fabien Maussion"
       period: "2016–present"
@@ -255,13 +256,14 @@ Outreach and Communication Volunteers:
     - name: "Anouk Vlug"
       period: "2020–2024"
   role_description: |
-    The purpose of the outreach and communication volunteers is to expand the reach of OGGM by communicating the value of glacier science to the public and other stakeholders.
+    The purpose of the outreach and communication volunteers is to expand the reach
+    of OGGM by communicating the value of glacier science to the public and other stakeholders.
 
-    Outreach and communication volunteers are responsible for: 
+    Outreach and communication volunteers are responsible for:
       - translating complex science into accessible content and engaging with the broader community
       - managing social media channels and writing blog posts
-      
-GitHub Issue Triagist:
+
+GitHub issues triage:
   role_holders:
       - name: "Fabien Maussion"
         period: "2016–present"
@@ -275,9 +277,10 @@ GitHub Issue Triagist:
       - name: "Matthias Dusch"
         period: "2019–2021"
   role_description: |
-    The purpose of the GitHub Issue Triagists is to ensure no GitHub issues go uncommented, providing effective issue management and resolution.
+    The purpose of the GitHub issues triagists is to ensure no GitHub issues go
+    uncommented, providing effective issue management and resolution.
 
-    GitHub Issue Triagists are responsible for: 
+    GitHub Issue Triagists are responsible for:
       - monitoring GitHub issues,
       - ensuring each issue is addressed,
       - providing comments, and coordinating with developers for resolution.
