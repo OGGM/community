@@ -19,3 +19,8 @@ Keeping track of user groups on classroom.
 
 - `cth24_` : Chalmers University of Technology, Erik Holmgren, 2024
 - `mlg24_` : Machine learning in glaciology training, Jordi Bolibar, 2024
+- `uob24_` : University of Bristol, Stephen Cornford, 2024
+- `uoe24_` : University of Edinburgh, Dan Goldberg, 2024
+- `lbu25_` : Leeds Becket University, Jenna Sutherland, 2025
+- `uo24_` : University of Oslo, Dylan Kreynen, 2024
+- `cut24_` :Chalmers University of Technology, Erik Holmgren, 2024
