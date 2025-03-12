@@ -147,7 +147,23 @@ Workshop organisers:
       period: "2015-present"
     - name: "Applications open"
       period: "Get in touch!"
-  past_role_holders: []
+  past_role_holders:
+    - name: "Nicolas Champollion"
+      period: "2019-2021"
+    - name: "David Rounce"
+      period: "2022"
+    - name: "Regine Hock"
+      period: "2022"
+    - name: "Beatriz Recinos"
+      period: "2023"
+    - name: "Dan Goldberg"
+      period: "2023"
+    - name: "Guillaume Jouvet"
+      period: "2024"
+    - name: "Samuel Cook"
+      period: "2024"
+    - name: "Tancrède Leger"
+      period: "2024"
   role_description: |
     The purpose of the workshop organiser role is to coordinate, plan, and facilitate community-driven
     workshops that foster collaboration, skill development, and knowledge sharing within the OGGM and
@@ -164,7 +180,7 @@ Workshop organisers:
 Education creators:
   role_holders:
     - name: "Lizz Ultee"
-      period: "(2019-present)"
+      period: "2019-present"
     - name: "Erik Holmgren"
       period: "2020-2021"
     - name: "Lilian Schuster"
