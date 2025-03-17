@@ -10,7 +10,7 @@ This Slack workspace is a place to get support, chat with fellow glacier enthusi
 
 ### Navigating the channels
 
-Slack uses "channels," which are chat groups dedicated to specific topics. Everyone is in the `#general` channel, used mainly for announcements and updates relevant to all members. It's also where invitations to our bi-weekly meetings are shared. The `#support` channel is typically the best place to ask questions, while `#random` is a space for lighter conversations—everything from pet photos to nerdy jokes.
+Slack uses "channels", which are chat groups dedicated to specific topics. Everyone is in the `#general` channel, used mainly for announcements and updates relevant to all members. It's also where invitations to our bi-weekly meetings are shared. The `#support` channel is typically the best place to ask questions, while `#random` is a space for lighter conversations—everything from pet photos to nerdy jokes.
 
 In addition to these channels, there are many thematic channels to join based on your interests, such as `#tidewater`, `#surface-mass-balance`, `#science-and-publications`, `#hardcore-programming`, and `#oggm-edu`.
 
@@ -18,8 +18,9 @@ You can also chat privately with one or more people at the same time. Slack offe
 
 ### Best Practices
 
-With over 200 members, maintaining some guidelines (see [](../code-of-conduct)) helps keep the platform welcoming and organized.
+With over 250 members, maintaining some guidelines (see [](../code-of-conduct)) helps keep the platform welcoming and organized.
 
+- When joining the platform it's custom to post a brief message in the `#introductions` channel to introduce oneself to the community. This is a recent practice to keep a sense of community and avoid anonymity with the increasing number of people around.
 - To keep discussions organized, please reply to messages within a thread. A "thread" is a focused conversation that branches off from a post.
 - When asking a question in the `#support` channel, ask one question at a time and make it as clear as possible. You don’t need flawless English, but enough context for others to understand the issue helps avoid unnecessary back-and-forth. For more tips on addressing OGGM-related issues, see our [error guide](error-guide).
 - Once your question has been answered (usually in the thread below), please add a check mark to the main question with an emoji like ✅. This helps others see at a glance which questions have been resolved.

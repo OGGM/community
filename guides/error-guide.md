@@ -26,7 +26,7 @@ If, after a serious attempt, you haven't succeeded in finding the answer yoursel
 
 ### Where to ask your question
 
-Typically, no OGGM coding support is provided via email. Most questions are best asked in the `#support` channel on the OGGM [Slack](https://oggm.org/2022/10/11/Welcome-to-the-OGGM-Slack/), our internal communications platform, where you will likely receive the quickest response. However, if you have numerous questions or prefer a more interactive discussion about the issue, feel free to join our online [community meetings](https://oggm.org/meetings/). If you are working on code development or encounter a bug in the codebase, raising an [issue on GitHub](https://github.com/OGGM/oggm/issues) in one of the OGGM repositories may be more appropriate.
+Typically, no OGGM coding support is provided via email. Most questions are best asked in the `#support` channel on the OGGM [Slack](slack-intro), our internal communications platform, where you will likely receive the quickest response. Before posting your question on slack, please make sure you have introduced yourself in the `#introductions` channel. Afterall it is nice for those volunteering to help you to know who they're helping. However, if you have numerous questions or prefer a more interactive discussion about the issue, feel free to join our online [community meetings](https://oggm.org/meetings/). If you are working on code development or encounter a bug in the codebase, raising an [issue on GitHub](https://github.com/OGGM/oggm/issues) in one of the OGGM repositories may be more appropriate.
 
 ### How to ask your question
 
@@ -57,4 +57,4 @@ On Slack, adding additional information to the question and follow-up discussion
 ## Authors
 
 - Anouk Vlug, Jenna Sutherland
-- Creation date: 2023-11-02
+- Creation date: 2023-11-02 (updated since)
