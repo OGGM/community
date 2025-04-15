@@ -18,10 +18,10 @@ No tracking prior to that date.
 - `uio_` : University of Oslo, Dylan Kreynen, 2023
 - `edi_` : University of Edinburgh, Dan Goldberg, 2023
 - `shu_` : Sheffield Hallam University, Niall Gandy, 2023
+- `cth24_` : Chalmers University of Technology, Erik Holmgren, 2024
 
 ## 2024/25
 
-- `cth24_` : Chalmers University of Technology, Erik Holmgren, 2024
 - `mlg24_` : Machine learning in glaciology training, Jordi Bolibar, 2024
 - `uob24_` : University of Bristol, Stephen Cornford, 2024
 - `uoe24_` : University of Edinburgh, Dan Goldberg, 2024
