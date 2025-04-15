@@ -2,18 +2,22 @@
 
 Keeping track of user groups on classroom.
 
+## Prior to 2022
+
+No tracking prior to that date.
+
 ## 2022/23
 
-- `midd_` : Middlebuery, Lizz' 22/23 class
-- `uob_` : Steph Cornford Bristol 22/23 class
-- `uibk_` : Lindsey's Innsbruck 21/22 and 22/23 class
+- `midd_` : Middlebury College, Lizz Ultee, 2022
+- `uob_` : University of Bristol, Steph Cornford, 2022
+- `uibk_` : University of Innsbruck, Lindsey Nicholson, 22/23
 
 ## 2023/24
 
-- `lbu_` : Leeds Becket Uni 23/24, Jenna Sutherland
-- `uio_` : Uni Oslo, Dylan Kreynen 23/24
-- `edi_` : Uni Edinburgh, Dan Goldberg 23/24
-- `shu_` : Sheffield uni I think? (I forgot)
+- `lbu_` : Leeds Becket Uni, Jenna Sutherland, 2023
+- `uio_` : University of Oslo, Dylan Kreynen, 2023
+- `edi_` : University of Edinburgh, Dan Goldberg, 2023
+- `shu_` : Sheffield Hallam University, Niall Gandy, 2023
 
 ## 2024/25
 
@@ -24,3 +28,4 @@ Keeping track of user groups on classroom.
 - `lbu25_` : Leeds Becket University, Jenna Sutherland, 2025
 - `uo24_` : University of Oslo, Dylan Kreynen, 2024
 - `cut24_` :Chalmers University of Technology, Erik Holmgren, 2024
+- `uibk_25` : University of Innsbruck, Patrick Schmitt, 2025
