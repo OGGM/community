@@ -29,3 +29,7 @@ No tracking prior to that date.
 - `uo24_` : University of Oslo, Dylan Kreynen, 2024
 - `cut24_` :Chalmers University of Technology, Erik Holmgren, 2024
 - `uibk_25` : University of Innsbruck, Patrick Schmitt, 2025
+
+## 2025/26
+
+- `uc25_` : University of Bergen, Ann Rowan, 2025
