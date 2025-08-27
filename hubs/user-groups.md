@@ -30,3 +30,7 @@ No tracking prior to that date.
 - `cut24_` :Chalmers University of Technology, Erik Holmgren, 2024
 - `uibk_25` : University of Innsbruck, Patrick Schmitt, 2025
 - `uc25_` : University of Canterbury, Ann Rowan, 2025
+
+## 2025/26
+
+- `uo25_` : University of Oslo, Inger Bij de Vaate, 2025
