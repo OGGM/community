@@ -34,3 +34,4 @@ No tracking prior to that date.
 ## 2025/26
 
 - `uo25_` : University of Oslo, Inger Bij de Vaate, 2025
+- `cth25_`: Chalmers University of Technology, Erik Holmgren, 2025
