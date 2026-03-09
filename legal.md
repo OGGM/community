@@ -12,11 +12,11 @@ Welcome to the privacy statement for **OGGM-related webpages and software**. Thi
 
 This Privacy Statement applies to the following services:
 
-- Static webpages: **[oggm.org](https://oggm.org)**, **[edu.oggm.org](https://edu.oggm.org)**, **[tutorials.oggm.org](https://tutorials.oggm.org)**, **[community.oggm.org](https://community.oggm.org)**
+- Static webpages: **[oggm.org](https://oggm.org)**, **[docs.oggm.org](https://docs.oggm.org)**, **[edu.oggm.org](https://edu.oggm.org)**, **[tutorials.oggm.org](https://tutorials.oggm.org)**, **[community.oggm.org](https://community.oggm.org)**
 - Bokeh server: **[bokeh.oggm.org](https://bokeh.oggm.org)**
 - OGGM data server: **[cluster.klima.uni-bremen.de](https://cluster.klima.uni-bremen.de)**
 
-These services are operated by **OGGM e.V.**, which acts as the **Data Controller** for personal data processed through these services.
+These webpages and services are operated by **OGGM e.V.**, which acts as the **Data Controller** for personal data processed through these services.
 
 Technical infrastructure for the Bokeh server and the data server is hosted on servers operated by the **University of Bremen**, which provides infrastructure and system administration.
 
