@@ -17,3 +17,4 @@ chapters:
     - file: hubs/admin
     - file: hubs/user-groups
     - file: hubs/privacy-notice
+  - file: legal
