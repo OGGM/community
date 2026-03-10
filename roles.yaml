@@ -68,13 +68,13 @@ IT infrastructure managers:
 
 Documentation and tutorials developers:
   role_holders:
-    - name: "Anouk Vlug"
-      period: "2020-present"
     - name: "Lilian Schuster"
       period: "2020-present"
     - name: "Beatriz Recinos"
       period: "2016-present"
-  past_role_holders: []
+  past_role_holders: 
+    - name: "Anouk Vlug"
+      period: "2020-2024"
   role_description: |
     The purpose of the documentation and tutorials developers role is to make OGGM accessible
     to a broad audience by creating educational resources and maintaining user documentation
