@@ -86,21 +86,23 @@ Documentation and tutorials developers:
 
 Community moderators:
   role_holders:
+    - name: "Chloe Hancock"
+      period: "2026-present"
     - name: "Patrick Schmitt"
       period: "2024-present"
-    - name: "Applications open"
-      period: "Get in touch!"
-  past_role_holders: 
+  past_role_holders:
     - name: "Anouk Vlug"
       period: "2020-2024"
   role_description: |
     The purpose of the community moderators role is to foster a welcoming and supportive
-    environment where community members can collaborate, learn, and share knowledge.
+    environment for all users, newcomers or veterans.
 
     Community moderators are responsible for welcoming new users into the OGGM spaces
     (mostly: Slack), facilitate discussions by e.g. pointing towards solutions online or
     pointing towards expert members that can help, moderate community platforms, and foster
     a sense of belonging within the community.
+
+    [](role-guides/community_moderator)
 
 Meeting facilitators:
   role_holders:
@@ -108,7 +110,7 @@ Meeting facilitators:
       period: "2024-present"
     - name: "Applications open"
       period: "Get in touch!"
-  past_role_holders: 
+  past_role_holders:
     - name: "Anouk Vlug"
       period: "2020-2024"
   role_description: |
