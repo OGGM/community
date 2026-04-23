@@ -54,4 +54,4 @@ Please ensure you have:
 
 **Note:** Do not authorize any older, unauthorized users on the list. Only the case which you are dealing with.
 
-1. Notify the user that they have been added to the OGGM JupyterHub Community! There is no automated email here, so this is a crucial step.
+8. Notify the user that they have been added to the OGGM JupyterHub Community! There is no automated email here, so this is a crucial step.
